@@ -7,7 +7,7 @@ import FacebookIcon from '@mui/icons-material/Facebook';
 import TwitterIcon from '@mui/icons-material/Twitter';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
-import WhatsappIcon from '@mui/icons-material/Whatsapp';
+import WhatsappIcon from '@mui/icons-material/WhatsApp';
 import { useEffect } from 'react';
 const HeroSection = () => {
 
